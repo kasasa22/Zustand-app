@@ -1,0 +1,23 @@
+.task{
+    background:white;
+    border-radius: 4px;
+    min-height:5 rem;
+    color: black ;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between ;
+}
+
+.bottom-wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.status{
+    font-size: small;
+    background-color: lightgray;
+    padding: o.25rem;
+    border-radius: 4px;
+}

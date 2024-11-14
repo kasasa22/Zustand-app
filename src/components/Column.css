@@ -1,0 +1,10 @@
+.Column {
+    min-height: 20rem;
+    color: #fff;
+    flex: 1; 
+    max-width: 20rem;
+    border-radius: 4px;
+    padding: 1rem;
+    background-color: #333; /* Example background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
